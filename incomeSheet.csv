@@ -1,0 +1,28 @@
+Neighborhood,Approximate Distance(milies),Average House Hold Median Income,Estimated Tree Canopy (%),Number of households,Population,Households with one or more people 65 years and over,Households with one or more people under 18 years,Households with no vehicles,Households with 1+ vehicles
+Downtown / South Main Arts District / South Bluffs,$1,"$75,763",10%,802000%,11816,922,630,372,7648
+Lakeland / Arlington / Brunswick,$3,"$115,478",15%,1515200%,43688,4574,6237,331,14821
+Collierville / Piperton,$8,"$135,946",45%,1996900%,56225,5960,7800,440,19529
+"Cordova, Zipcode 1",$4,"$75,719",30%,1836500%,44274,4574,4789,694,17671
+"Cordova, Zipcode 2",$4,"$89,627",30%,1421500%,37996,3451,4451,308,13907
+Hickory Withe,$4,"$150,847",25%,270900%,7699,1066,976,630,2655
+Oakland,$2,"$84,277",20%,490300%,12360,1699,1511,331,4690
+Rossville,$11,"$105,282",20%,145000%,3706,689,330,162,1374
+East Midtown / Central Gardens / Cooper Young,$1,"$56,452",12%,1294600%,22121,2789,1798,1517,11429
+Uptown / Pinch District,$1,"$29,316",15%,324100%,4961,724,426,840,2401
+South Memphis,$2,"$29,818",8%,912600%,21702,3319,1783,1656,7470
+North Memphis / Snowden / New Chicago,$3,"$36,393",8%,665900%,14001,1632,1455,1153,5506
+Hollywood / Hyde Park / Nutbush,$12,"$35,435",18%,656900%,18425,2205,2171,1138,5431
+Coro Lake / White Haven,$7,"$36,934",12%,1670600%,43639,6803,4677,2183,14523
+East Memphis – Colonial Yorkshire,$3,"$52,806",20%,1786600%,42061,4830,3876,2331,15535
+Midtown / Evergreen / Overton Square,$2,"$52,639",22%,655400%,15107,1972,1630,1080,5474
+East Memphis,$2,"$93,688",20%,1139300%,26258,3711,3025,361,11032
+Windyke / Southwind,$5,"$83,184",18%,1554900%,42732,2931,5119,324,15225
+South Forum / Washington Heights,$4,"$30,825",10%,269800%,5456,692,993,722,1976
+Frayser,3.9,"$37,768",5%,1418300%,39404,3990,5371,1774,12409
+Egypt / Raleigh,15,43166,15%,1613100%,43701,3764,6065,1818,14313
+"Bartlett, Zipcode 1",5,82485,35%,804700%,20900,1777,2896,293,7754
+"Bartlett, Zipcode 2",5.2,61172,35%,1469800%,38849,3553,4867,902,13796
+"Bartlett, Zipcode 3",5.5,92458,35%,1092500%,30284,3377,3392,428,10497
+"Germantown, Zipcode 1",7.8,"$130,125",40%,1023200%,25171,4728,3184,656,9576
+"Germantown, Zipcode 2",8,"$174,052",40%,578000%,16298,2289,2286,89,5691
+South Riverdale,6.5,"$64,050",12%,803000%,23768,1490,3303,317,7713
